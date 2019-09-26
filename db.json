@@ -1,1 +1,2 @@
-[{"id":2,"nome":"alberto","email":"alberto.souza@caelum.com.br"}]
+{
+	"post": [{"id":2,"nome":"alberto","email":"alberto.souza@caelum.com.br"}]}
