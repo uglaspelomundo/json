@@ -1,1 +1,18 @@
-{[{"id":2,"nome":"alberto","email":"alberto.souza@caelum.com.br"}]}
+"post": [
+		{
+			"id": 1,
+			"nome": "Prince",
+			"email": "douglas.pereira@gmail.com",
+			"senha": "1"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
