@@ -1,10 +1,8 @@
 {
-	"post": [
-		{
+	"post": {
 			"id": 1,
 			"nome": "Prince",
 			"email": "douglas.pereira@gmail.com",
 			"senha": "1"
 		}
-	]
 }
